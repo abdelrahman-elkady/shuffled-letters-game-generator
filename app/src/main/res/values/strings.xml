@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Word Encoder</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="main_original_text_label">Original Text</string>
+    <string name="editxt_original_text">Original Text</string>
+    <string name="editxt_encoded_text">Encoded Text</string>
+
+</resources>
